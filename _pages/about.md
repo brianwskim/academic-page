@@ -11,7 +11,10 @@ I am a PhD candidate with a background of musculoskeletal physiotherapy based in
 
 ------
 # Affiliations
-Some notable affiliations are, of course: (1) the [Kolling Institute](https://kollinginstitute.org.au), a joint venture between The University of Sydney's Faculty of Medicine and Health & Northern Sydney Local Health District; (2) [SPRINT Research Centre](https://www.acu.edu.au/research-and-enterprise/our-research-institutes/sprint-research-centre), Australian Catholic University.
+My current affiliations are: 
+1. [Kolling Institute](https://kollinginstitute.org.au), a joint venture between The University of Sydney's Faculty of Medicine and Health & Northern Sydney Local Health District;
+2. [School of Health Sciences](https://www.sydney.edu.au/medicine-health/schools/sydney-school-of-health-sciences.html), The University of Sydney;
+3. [SPRINT Research Centre](https://www.acu.edu.au/research-and-enterprise/our-research-institutes/sprint-research-centre), Australian Catholic University.
 
 # International Collaborations
 * **Kenneth A Weber II**, Department of Anaesthesiology, Perioperative and Pain Medicine, <span style="color:red">*Stanford University School of Medicine*</span>, Palo Alto, CA, USA
