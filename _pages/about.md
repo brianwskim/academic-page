@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate with a background of musculoskeletal physiotherapy based in Australia. In 2023, I embarked on thais journey to better understand advances in musculoskeletal imaging. With a group of researchers from around the globe, I have learnt to develop new MRI analysis tools and am excited to collaborate with anyone with the same passion as I have.
+I am a PhD candidate with a focus on musculoskeletal imaging and computer vision. Originally a physiotherapist, I have since (purposefully) stumbled upon academia and become obsessed with the scientific method. What more could anyone ask for?
 
 ------
 # Affiliations
