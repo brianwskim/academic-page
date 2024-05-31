@@ -1,6 +1,6 @@
 ---
 title: "MuscleMap"
-excerpt: "Open-source quantitative whole-body MRI"
+excerpt: "Open-source quantitative whole-body MRI <br/><img src='/images/project-1.png'>"
 collection: projects
 ---
 MuscleMap is an international consortium driven by the need to develop a whole-body normative reference dataset of age-related skeletal muscle composition measures using deep learning convolutional neural networks. 
