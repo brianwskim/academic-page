@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate with a background of musculoskeletal physiotherapy based in Australia. In 2023, I embarked on thais journey to better understand advances in musculoskeletal imaging. With a rag tag group of researchers around the globe, I have learnt to develop new MRI analysis tools and am excited to collaborate with anyone with the same passion as I have.
+I am a PhD candidate with a background of musculoskeletal physiotherapy based in Australia. In 2023, I embarked on thais journey to better understand advances in musculoskeletal imaging. With a group of researchers from around the globe, I have learnt to develop new MRI analysis tools and am excited to collaborate with anyone with the same passion as I have.
 
 ------
 # Affiliations
@@ -18,7 +18,7 @@ My current affiliations are:
 
 # International Collaborations
 * **Kenneth A Weber II**, Department of Anaesthesiology, Perioperative and Pain Medicine, <span style="color:red">*Stanford University School of Medicine*</span>, Palo Alto, CA, USA
-* **Amee L Seitz**, Department of Physical Therapy and Human Movement Sciences,<span style="color:purple">*Northwestern University Feinberg School of Medicine*</span>, Chicago, IL, USA
+* **Amee L Seitz**, Department of Physical Therapy and Human Movement Sciences, <span style="color:purple">*Northwestern University Feinberg School of Medicine*</span>, Chicago, IL, USA
 * **Evert O Wesselink**, Faculty of Behavioural and Movement Sciences, Amsterdam Movement Sciences, <span style="color:aqua">*Vrije Universiteit Amsterdam*</span>, Van Der Boechorststraat 7, 1081 BT, Amsterdam, The Netherlands
 
 ------
