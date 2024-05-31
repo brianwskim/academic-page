@@ -21,10 +21,10 @@ repository               : "brianwskim/academic-page.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "bio-photo.png"
   name             : "Brian Kim"
   pronouns         : # example: "she/her"  
-  bio              : "PhD Candidate in Neuromuscular Imaging"
+  bio              : "PhD Candidate"
   location         : "Australia"
   employer         : "The University of Sydney"
   uri              : # URL
@@ -48,7 +48,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "brianwskim.bsky.app" # Replace this with you Bluesky username
+  bluesky          : "brianwskim" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
