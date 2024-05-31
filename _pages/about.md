@@ -20,5 +20,6 @@ My current affiliations are:
 * **Kenneth A Weber II**, Department of Anaesthesiology, Perioperative and Pain Medicine, <span style="color:red">*Stanford University School of Medicine*</span>, Palo Alto, CA, USA
 * **Amee L Seitz**, Department of Physical Therapy and Human Movement Sciences,<span style="color:purple">*Northwestern University Feinberg School of Medicine*</span>, Chicago, IL, USA
 * **Evert O Wesselink**, Faculty of Behavioural and Movement Sciences, Amsterdam Movement Sciences, <span style="color:aqua">*Vrije Universiteit Amsterdam*</span>, Van Der Boechorststraat 7, 1081 BT, Amsterdam, The Netherlands
+
 ------
 Do not forget to check out my latest [publications](https://scholar.google.com/citations?user=IhFfD0AAAAAJ&hl=en). You can even peruse and download my latest [CV](/files/cv-latest.pdf).
