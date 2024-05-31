@@ -19,7 +19,7 @@ My PhD supervisors are <a href= "https://www.sydney.edu.au/medicine-health/about
 
 # People
 ## Domestic Collaborations
-* <a href= "https://www.ssri.net.au" style="color:#E64626; font-weight=bold" target="_blank">Sydney Shoulder Research Institute</a>
+* <a href= "https://www.ssri.net.au" style="color:#97CADF; font-weight=bold" target="_blank">Sydney Shoulder Research Institute</a>
 
 ## International Collaborations
 * <a href="https://profiles.stanford.edu/kenneth-weber" style="color:#8C1515; font-weight=bold" target="_blank">Dr Kenneth A Weber II</a>, Department of Anaesthesiology, Perioperative and Pain Medicine, Stanford University School of Medicine, Palo Alto, CA, USA
