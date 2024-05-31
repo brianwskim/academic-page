@@ -11,7 +11,7 @@ I am a PhD candidate with a focus on musculoskeletal imaging and computer vision
 
 ------
 # Affiliations
-1. <span href= "https://kollinginstitute.org.au" style="color:#007FE0; font-weight=bold">[Kolling Institute]</span>, The University of Sydney, Faculty of Medicine and Health & The Northern Sydney Local Health District, St Leonards, NSW, Australia
+1. <a href= "https://kollinginstitute.org.au" style="color:#007FE0; font-weight=bold">[Kolling Institute]</a>, The University of Sydney, Faculty of Medicine and Health & The Northern Sydney Local Health District, St Leonards, NSW, Australia
 2. <span style="color:#E64626 font-weight=bold">[School of Health Sciences](https://www.sydney.edu.au/medicine-health/schools/sydney-school-of-health-sciences.html)</span>, Faculty of Medicine and Health, The University of Sydney, Sydney, NSW, Australia
 3. <span style="color:#3C1053; font-weight=bold">[SPRINT Research Centre](https://www.acu.edu.au/research-and-enterprise/our-research-institutes/sprint-research-centre)</span>, Australian Catholic University, Melbourne, VIC, Australia
 
