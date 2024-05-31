@@ -10,7 +10,7 @@ redirect_from:
 I am a PhD candidate with a focus on musculoskeletal imaging and computer vision. By some miracle, I have become obsessed with the scientific method. What more could anyone ask for?
 
 [!IMPORTANT]  
-Thesis title: *Deep learning applications in magnetic resonance imaging of the rotator cuff.*
+Thesis title: *Deep learning applications in magnetic resonance imaging of the rotator cuff*
 
 Supervisors: <a href= "https://www.sydney.edu.au/medicine-health/about/our-people/academic-staff/james.elliott.html" target="_blank">Prof James M Elliott</a>, <a href= "https://www.sydney.edu.au/medicine-health/about/our-people/academic-staff/marnee.mckay.html" target="_blank">Dr Marnee J McKay</a>, <a href= "https://www.sydney.edu.au/medicine-health/about/our-people/academic-staff/ziba.gandomkar.html" s target="_blank">Dr Ziba Gandomkar</a>, <a href="https://profiles.stanford.edu/kenneth-weber" style="color:#8C1515; font-weight=bold" target="_blank">Dr Kenneth A Weber II</a>, and <a href="https://www.feinberg.northwestern.edu/faculty-profiles/az/profile.html?xid=31112" target="_blank">Prof Amee L Seitz</a>.
 
