@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome! I'm Brian."
+title: "Brian Kim - Research Portfolio and Blog"
 author_profile: true
 redirect_from: 
   - /about/
@@ -9,16 +9,13 @@ redirect_from:
 
 I am a PhD candidate with a background of musculoskeletal physiotherapy based in Australia. In 2023, I embarked on thais journey to better understand advances in musculoskeletal imaging. With a rag tag group of researchers around the globe, I have learnt to develop new MRI analysis tools and am excited to collaborate with anyone with the same passion as I have.
 
-======
-Like many other quantitiative PhD students, I am trapped in a love-hate relationship with coding. Lucky for me, this Jekyll-based GitHub Pages template made it super simple to create something. 
-
 ------
-Some notable affiliations are, of course: (1) the Kolling Institute [https://kollinginstitute.org.au], a joint venture between The University of Sydney's Faculty of Medicine and Health & Northern Sydney Local Health District; (2) SPRINT Research Centre [https://www.acu.edu.au/research-and-enterprise/our-research-institutes/sprint-research-centre], Australian Catholic University.
+# Affiliations
+Some notable affiliations are, of course: (1) the [Kolling Institute](https://kollinginstitute.org.au), a joint venture between The University of Sydney's Faculty of Medicine and Health & Northern Sydney Local Health District; (2) [SPRINT Research Centre](https://www.acu.edu.au/research-and-enterprise/our-research-institutes/sprint-research-centre), Australian Catholic University.
 
+# International Collaborations
+* **Kenneth A Weber II**, Department of Anaesthesiology, Perioperative and Pain Medicine, <span style="color:red">*Stanford University School of Medicine*</span>, Palo Alto, CA, USA
+* **Amee L Seitz**, Department of Physical Therapy and Human Movement Sciences,<span style="color:purple">*Northwestern University Feinberg School of Medicine*</span>, Chicago, IL, USA
+* **Evert O Wesselink**, Faculty of Behavioural and Movement Sciences, Amsterdam Movement Sciences, <span style="color:aqua">*Vrije Universiteit Amsterdam*</span>, Van Der Boechorststraat 7, 1081 BT, Amsterdam, The Netherlands
 ------
-Do not forget to check out my latest publications [__publications_ directory](https://github.com/brianwskim/academic-page.github.io/tree/master/_publications_). You can even scroll through my latest CV [CV page](https://academicpages.github.io/cv).
-
-
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+Do not forget to check out my latest [publications](https://scholar.google.com/citations?user=IhFfD0AAAAAJ&hl=en). You can even peruse and download my latest [CV](https://github.com/brianwskim/academic-page.io/files/cv-latest.pdf).
