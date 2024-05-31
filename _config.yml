@@ -21,7 +21,7 @@ repository               : "brianwskim/academic-page.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "bio-photo.png"
+  avatar           : "bio-photo.jpg"
   name             : "Brian Kim"
   pronouns         : # example: "she/her"  
   bio              : "PhD Candidate"
@@ -48,7 +48,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "brianwskim" # Replace this with you Bluesky username
+  bluesky          : "brianwskim.bsky.social" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
