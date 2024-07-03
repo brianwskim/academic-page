@@ -20,10 +20,10 @@ Supervisors: <a href= "https://www.sydney.edu.au/medicine-health/about/our-peopl
 
 
 ### International Collaborations
-* <a href="https://profiles.stanford.edu/kenneth-weber"; font-weight=bold" target="_blank">Dr Kenneth A Weber II</a>, Department of Anaesthesiology, Perioperative and Pain Medicine, Stanford University School of Medicine, Palo Alto, CA, USA
-* <a href="https://www.feinberg.northwestern.edu/faculty-profiles/az/profile.html?xid=31112"; font-weight=bold" target="_blank">Prof Amee L Seitz</a>, Department of Physical Therapy and Human Movement Sciences, Northwestern University Feinberg School of Medicine, Chicago, IL, USA
-* <a href="https://vu.nl/en/about-vu/faculties/faculty-of-behavioural-and-movement-sciences/more-about/staff-members-human-movement-sciences"; font-weight=bold" target="_blank">Dr Evert O Wesselink</a>, Faculty of Behavioural and Movement Sciences, Amsterdam Movement Sciences, Vrije Universiteit Amsterdam, Van Der Boechorststraat 7, 1081 BT, Amsterdam, The Netherlands
-* <a href="https://www.narayanahealth.org/c/bangalore/orthopaedics-and-joint-replacement/dr-k-s-kushalappa"; font-weight=bold" target="_blank">Dr Kushalappa Subbiah</span>, India
+* <a href="https://profiles.stanford.edu/kenneth-weber" font-weight=bold" target="_blank">Dr Kenneth A Weber II</a>, Department of Anaesthesiology, Perioperative and Pain Medicine, Stanford University School of Medicine, Palo Alto, CA, USA
+* <a href="https://www.feinberg.northwestern.edu/faculty-profiles/az/profile.html?xid=31112" font-weight=bold" target="_blank">Prof Amee L Seitz</a>, Department of Physical Therapy and Human Movement Sciences, Northwestern University Feinberg School of Medicine, Chicago, IL, USA
+* <a href="https://vu.nl/en/about-vu/faculties/faculty-of-behavioural-and-movement-sciences/more-about/staff-members-human-movement-sciences" font-weight=bold" target="_blank">Dr Evert O Wesselink</a>, Faculty of Behavioural and Movement Sciences, Amsterdam Movement Sciences, Vrije Universiteit Amsterdam, Van Der Boechorststraat 7, 1081 BT, Amsterdam, The Netherlands
+* <a href="https://www.narayanahealth.org/c/bangalore/orthopaedics-and-joint-replacement/dr-k-s-kushalappa" font-weight=bold" target="_blank">Dr Kushalappa Subbiah</span>, India
 
 ------
 Do not forget to check out my latest [publications](https://scholar.google.com/citations?user=IhFfD0AAAAAJ&hl=en). You can even peruse and download my latest [CV](/files/cv-latest.pdf).
