@@ -15,8 +15,8 @@ Supervisors: <a href= "https://www.sydney.edu.au/medicine-health/about/our-peopl
 
 ------
 ### Domestic Collaborations
-* <a href= "https://www.acu.edu.au/research-and-enterprise/our-research-institutes/sprint-research-centre/our-people/dr-david-opar" style="color:#3C1053; font-weight=bold" target="_blank">Prof David A Opar</a>, SPRINT Research Centre, Australian Catholic University, Melbourne, VIC, Australia
-* <a href= "https://www.ssri.net.au" style="color:#97CADF; font-weight=bold" target="_blank">Sydney Shoulder Research Institute</a>, St Leonards, NSW, Australia 
+* <a href= "https://www.acu.edu.au/research-and-enterprise/our-research-institutes/sprint-research-centre/our-people/dr-david-opar"; font-weight=bold" target="_blank">Prof David A Opar</a>, SPRINT Research Centre, Australian Catholic University, Melbourne, VIC, Australia
+* <a href= "https://www.ssri.net.au"; font-weight=bold" target="_blank">Sydney Shoulder Research Institute</a>, St Leonards, NSW, Australia 
 
 
 ### International Collaborations
