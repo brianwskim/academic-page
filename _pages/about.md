@@ -9,7 +9,7 @@ redirect_from:
 
 I am a PhD candidate with a focus on musculoskeletal imaging and computer vision. By some miracle, I have become obsessed with the scientific method. What more could anyone ask for?
 
-Thesis title: *Deep learning applications in magnetic resonance imaging of the rotator cuff*
+Thesis title: *Enhancing muscle evaluation tools for the rotator cuff on magnetic resonance imaging*
 
 Supervisors: <a href= "https://www.sydney.edu.au/medicine-health/about/our-people/academic-staff/james.elliott.html" target="_blank">Prof James M Elliott</a>, <a href= "https://www.sydney.edu.au/medicine-health/about/our-people/academic-staff/marnee.mckay.html" target="_blank">Dr Marnee J McKay</a>, <a href= "https://www.sydney.edu.au/medicine-health/about/our-people/academic-staff/ziba.gandomkar.html" s target="_blank">Dr Ziba Gandomkar</a>, <a href="https://profiles.stanford.edu/kenneth-weber" style="font-weight=bold" target="_blank">Dr Kenneth A Weber II</a>, <a href="https://www.feinberg.northwestern.edu/faculty-profiles/az/profile.html?xid=31112" target="_blank">Prof Amee L Seitz</a>.
 
@@ -23,7 +23,7 @@ Supervisors: <a href= "https://www.sydney.edu.au/medicine-health/about/our-peopl
 * <a href="https://profiles.stanford.edu/kenneth-weber" target="_blank">Dr Kenneth A Weber II</a>, Department of Anaesthesiology, Perioperative and Pain Medicine, Stanford University School of Medicine, Palo Alto, CA, USA
 * <a href="https://www.feinberg.northwestern.edu/faculty-profiles/az/profile.html?xid=31112" target="_blank">Prof Amee L Seitz</a>, Department of Physical Therapy and Human Movement Sciences, Northwestern University Feinberg School of Medicine, Chicago, IL, USA
 * <a href="https://vu.nl/en/about-vu/faculties/faculty-of-behavioural-and-movement-sciences/more-about/staff-members-human-movement-sciences" target="_blank">Dr Evert O Wesselink</a>, Faculty of Behavioural and Movement Sciences, Amsterdam Movement Sciences, Vrije Universiteit Amsterdam, Van Der Boechorststraat 7, 1081 BT, Amsterdam, The Netherlands
-* <a href="https://www.narayanahealth.org/c/bangalore/orthopaedics-and-joint-replacement/dr-k-s-kushalappa" target="_blank">Dr Kushalappa Subbiah</a>, India
+* <a href="https://www.narayanahealth.org/c/bangalore/orthopaedics-and-joint-replacement/dr-k-s-kushalappa" target="_blank">Dr Kushalappa Subbiah</a>, Mazumdar Shaw Medical Centre, Bangalore, India
 
 ------
 Do not forget to check out my latest [publications](https://scholar.google.com/citations?user=IhFfD0AAAAAJ&hl=en). You can even peruse and download my latest [CV](/files/cv-latest.pdf).
